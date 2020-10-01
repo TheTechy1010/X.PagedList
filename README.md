@@ -12,3 +12,6 @@ You can find all information about how to use X.PagedList libraries in [Wiki](ht
 
 ## License
 Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+
+## CSS
+When you are installing this package the PagedList.CSS is not included in .NET Core. try to download it and add it manually if you are facing an issue.
